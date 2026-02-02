@@ -47,6 +47,12 @@ This project can be used for:
 ## ▶️ How to Run the Project
 1. Install dependencies:
 2. Run the analysis script:
+- pip install pandas
+- python analysis/employee_analysis.py
+
+---
+## Note 
+- output/ folder is intentionally empty and holds generated results (ignored due to .gitignore).
 ---
 ## ⭐ Conclusion
 This mini project highlights practical data analysis skills using Python and Pandas and is suitable for beginner to intermediate data analytics portfolios.
